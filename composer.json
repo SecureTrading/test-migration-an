@@ -1,0 +1,9 @@
+{
+  "name" : "securetrading/test_migration_an",
+  "version" : "1.0.0",
+  "description" : "Repo to test migration to gitlab",
+  "license" : "MIT",
+  "require" : {
+    "php" : "^8.1"
+  }
+}

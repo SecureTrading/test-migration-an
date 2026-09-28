@@ -1,6 +1,6 @@
 {
   "name" : "securetrading/test_migration_an",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "description" : "Repo to test migration to gitlab",
   "license" : "MIT",
   "require" : {

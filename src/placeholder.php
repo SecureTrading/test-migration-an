@@ -10,7 +10,7 @@ declare(strict_types=1);
 
 function placeholder(): string
 {
-    return 'This is a placeholder. Replace me!';
+    return 'Replaced it!';
 }
 
 echo placeholder();
